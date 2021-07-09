@@ -5,4 +5,4 @@ Simple game.
 ##### TO DO
 [ ] - image import
 
-[ ] - flexible pipe size 
+[x] - flexible pipe size 
